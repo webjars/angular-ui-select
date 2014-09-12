@@ -1,0 +1,2 @@
+webjars-angular-ui-select
+=========================
