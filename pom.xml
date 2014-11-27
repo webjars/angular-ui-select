@@ -24,7 +24,7 @@
         <requirejs>
             {
                 "paths": {
-                    "angular-ui-select": "angular-ui-select"
+                    "angular-ui-select": "select"
                 },
                 "shim": {
                     "angular-ui-select": ["angular"]
