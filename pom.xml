@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-ui-select</artifactId>
-    <version>0.17.2-SNAPSHOT</version>
+    <version>0.19.6-SNAPSHOT</version>
     <name>angular-ui-select</name>
     <description>WebJar for angular-ui-select</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>0.17.1</upstream.version>
+        <upstream.version>0.19.6</upstream.version>
         <upstream.url>http://github.com/angular-ui/ui-select/archive</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
         <requirejs>
